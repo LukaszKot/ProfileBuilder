@@ -34,6 +34,6 @@ ProfileBuilder is a platform for generating professional, ATS-friendly resumes t
 
 This stack was selected to ensure cross-platform reach, modularity, and the ability to leverage modern AI capabilities for resume optimization.
 
-- [Design Level Event Storming](link-to-design-level-event-storming)
+- [Design Level Event Storming](docs/design-level-event-storming.png)
 - [C1/C2/C3/C4 Diagrams](link-to-architecture-diagrams)
 - [Architecture Decision Records (ADR)](link-to-adr)
