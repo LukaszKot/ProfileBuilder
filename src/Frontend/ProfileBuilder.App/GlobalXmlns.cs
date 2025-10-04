@@ -1,0 +1,2 @@
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "ProfileBuilder.App")]
+[assembly: XmlnsDefinition("http://schemas.microsoft.com/dotnet/maui/global", "ProfileBuilder.App.Pages")]
