@@ -28,7 +28,7 @@ ProfileBuilder is a platform for generating professional, ATS-friendly resumes t
 - **Backend**: Modular monolith architecture using .NET for maintainability and scalability.
 - **Frontend**: MAUI for a unified UI across devices.
 - **Database**: CouchDB, chosen for its flexibility and sync capabilities.  
-  _Note: This is resume driven development; in normal circumstances, any SQL database would be sufficient._
+  _Note: This is resume-driven development; in normal circumstances, any SQL database would be sufficient._
 - **AI Integration**: ChatGPT is used to analyze job descriptions and propose resume content.
 - **Hosting**: Docker containers for consistent deployment and scalability.
 
