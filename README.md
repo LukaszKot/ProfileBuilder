@@ -20,7 +20,7 @@ ProfileBuilder is a platform for generating professional, ATS-friendly resumes t
 - Contact information is securely stored and never provided to LLM
 - Continuous Integration / Continuous Deployment (CI/CD) enabled
 
-- [Big Picture Event Storming](link-to-big-picture-event-storming)
+- [Big Picture Event Storming](docs/big-picture-event-storming.png)
 
 ## Technology Stack Information
 
